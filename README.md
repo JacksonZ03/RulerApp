@@ -1,5 +1,6 @@
 # RulerApp
 
+![Screenshot](RulerApp.png)
 Simple 15 cm ruler for Macbook Pro.
 Works in any screen resolution.
 Tested on M1 Max Macbook Pro.
